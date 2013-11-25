@@ -7,4 +7,5 @@ define('APP_PATH','./Home/');
 define('APP_DEBUG',true);
 //引入应用核心文件
 require './ThinkPHP/ThinkPHP.php';
+//测试github
 ?>
